@@ -28,7 +28,7 @@ L q'' + R q' + q / C = E0 cos(w t)
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/rlc-circuit-simulator.git
+git clone https://github.com/<DivyanshCorner/rlc-circuit-simulator.git
 cd rlc-circuit-simulator
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
